@@ -73,7 +73,7 @@
     "handlebars": "^4.7.6",
     "handlebars-loader": "^1.7.0",
     "highlight.js": "^10.4.1",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^4.0.0",
     "idle-vue": "^2.0.5",
     "js-cache": "^1.0.3",
     "jsheader": "0.0.2",
