@@ -105,7 +105,7 @@
     "range": "0.0.3",
     "raw-loader": "^0.5.1",
     "raw-text": "^1.1.0",
-    "recursive-readdir": "^2.2.2",
+    "recursive-readdir": "^2.2.3",
     "require-dir": "^0.3.2",
     "roboto-fontface": "^0.8.0",
     "safe-eval": "^0.4.1",
