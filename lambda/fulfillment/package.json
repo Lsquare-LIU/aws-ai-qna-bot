@@ -17,7 +17,7 @@
     "http-aws-es": "^6.0.0",
     "intercept-stdout": "^0.1.2",
     "jsonschema": "^1.2.2",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "jwks-rsa-promisified": "^1.0.2",
     "slackify-markdown": "4.1.0",
     "utf8": "3.0.0"
